@@ -19,3 +19,5 @@ I am Muni Kiran Narpareddi, currently working as a Associate software developer 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narmuni123&hide=TeX&layout=compact)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=narmuni123&countColor=%23263759)
+
