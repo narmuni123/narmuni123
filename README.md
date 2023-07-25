@@ -15,6 +15,7 @@ I am Muni Kiran Narpareddi, currently working as a Associate software developer 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=narmuni123&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narmuni123&hide=TeX&layout=compact)
