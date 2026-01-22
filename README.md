@@ -10,6 +10,7 @@ I'm **Muni Kiran Narpareddi**, a **Senior Software Developer** at [CometChat](ht
 
 📫 **Let’s Connect:**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-munikiran.netlify.app-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://munikiran.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-Munikiran-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/munikiran/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@narmuni123)
 [![Gmail](https://img.shields.io/badge/-narmuni123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:narmuni123@gmail.com)
